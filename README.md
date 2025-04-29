@@ -1,10 +1,10 @@
-# 📍 CSS Position, Float, Clear, 기타 속성 정리
+#  CSS Position, Float, Clear, 기타 속성 정리
 
-## 🔹 Position 속성
+##  Position 속성
 
 - **한 요소에 두 개의 `position` 속성 동시 적용 불가**
 
-### ✅ relative
+###  relative
 - 자기 자신 기준으로 이동 (원래 위치를 기준)
 - 부모가 없으면 뷰포트 기준 이동
 - 부모가 이동하면, 자식은 이동한 부모를 기준으로 움직임
